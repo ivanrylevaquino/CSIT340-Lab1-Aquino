@@ -45,7 +45,7 @@ function App() {
     
     <section>
       <h2 class="text-xl font-semibold mb-3">Reach me</h2>
-      <p class="leading-relaxed text-slate-700">
+      <p class="leading-relaxed text-slate-700 py-5">
         ivan.aquino@cit.edu
         <br/>
         ivanrylevaquino@gmail.com
