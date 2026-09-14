@@ -29,7 +29,7 @@ function App() {
         Hometown: Minglanilla, Cebu<br/>
       </p>
       <h2 className="font-medium text-xl py-4 px-8">
-        Things I like:
+        Things I like
       </h2>
       <p className="py-2 px-8  justify-center">
         <ul className="list-disc list-inside">
